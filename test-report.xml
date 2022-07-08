@@ -1,150 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testExecutions version="1">
-  <file path="/home/asishk/Videos/green-commute/src/components/molecules/LocationField/index.test.tsx">
-    <testCase name="Location Field Molecule Random location" duration="152"/>
-    <testCase name="Location Field Snapshot renders location field correctly" duration="43"/>
+  <file path="/home/asishk/Videos/green-commute/src/components/atoms/InputField/index.test.tsx">
+    <testCase name="Atoms renders input field" duration="372"/>
   </file>
   <file path="/home/asishk/Videos/green-commute/src/components/organisms/CommonRoutes/index.test.tsx">
-    <testCase name="CabCard renders correctly" duration="80"/>
-    <testCase name="CabCard Text should render correctly" duration="110"/>
-    <testCase name="CabCard Text should render correctly" duration="60"/>
-    <testCase name="CabCard Text should render correctly" duration="41"/>
-  </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/organisms/AcknowledgementCard/index.test.tsx">
-    <testCase name="AcknowledgementCard Text should render correctly" duration="401"/>
-    <testCase name="AcknowledgementCard Number of Icons should be 2" duration="60"/>
-    <testCase name="AcknowledgementCard Button element rendered correctly" duration="39"/>
-  </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/organisms/CabCard/index.test.tsx">
-    <testCase name="CabCard renders correctly" duration="149"/>
-    <testCase name="CabCard Text should render correctly" duration="105"/>
-    <testCase name="CabCard Element for ola should be rendered" duration="58"/>
-    <testCase name="CabCard Element rapido should be rendered" duration="42"/>
-    <testCase name="CabCard Element uber should be rendered" duration="47"/>
-  </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/organisms/SideMenu/index.test.tsx">
-    <testCase name="SideMenu Text should render correctly" duration="276"/>
-    <testCase name="SideMenu Text should render correctly" duration="128"/>
-    <testCase name="SideMenu MenuItem rendered correctly" duration="75"/>
-    <testCase name="SideMenu MenuItem rendered correctly" duration="81"/>
-    <testCase name="SideMenu MenuItem rendered correctly" duration="82"/>
-    <testCase name="SideMenu MenuItem rendered correctly" duration="53"/>
-    <testCase name="SideMenu MenuItem rendered correctly" duration="52"/>
-    <testCase name="SideMenu MenuItem rendered correctly" duration="65"/>
-    <testCase name="SideMenu MenuItem rendered correctly" duration="75"/>
-    <testCase name="SideMenu MenuItem rendered correctly" duration="68"/>
-  </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/organisms/FilterMenu/index.test.tsx">
-    <testCase name="Filter menu organism renders all parts of filter menu" duration="1628"/>
-  </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/organisms/MetroCard/index.test.tsx">
-    <testCase name="CabCard renders correctly" duration="79"/>
-    <testCase name="CabCard Text should render correctly" duration="71"/>
-    <testCase name="CabCard Text should render correctly" duration="40"/>
-    <testCase name="CabCard Number of Icons should be 2" duration="47"/>
-    <testCase name="CabCard Button element rendered correctly" duration="21"/>
-  </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/organisms/JobDetailsCard/index.test.tsx">
-    <testCase name="CabCard renders correctly" duration="116"/>
-    <testCase name="CabCard Text should render correctly" duration="73"/>
-    <testCase name="CabCard Text should render correctly" duration="54"/>
-    <testCase name="CabCard Button element rendered correctly" duration="32"/>
+    <testCase name="CabCard renders correctly" duration="86"/>
+    <testCase name="CabCard Text should render correctly" duration="114"/>
+    <testCase name="CabCard Text should render correctly" duration="44"/>
+    <testCase name="CabCard Text should render correctly" duration="39"/>
   </file>
   <file path="/home/asishk/Videos/green-commute/src/components/organisms/JobList/index.test.tsx">
-    <testCase name="Organisms renders Job list" duration="432"/>
-    <testCase name="renders correctly when filter has no items" duration="21"/>
-    <testCase name="renders correctly when filter has items" duration="9"/>
+    <testCase name="Organisms renders Job list" duration="636"/>
+    <testCase name="renders correctly when filter has no items" duration="39"/>
+    <testCase name="renders correctly when filter has items" duration="15"/>
   </file>
   <file path="/home/asishk/Videos/green-commute/src/components/organisms/FileUploadCard/index.test.tsx">
-    <testCase name="FileUploadCard Text should render correctly" duration="303"/>
-    <testCase name="FileUploadCard Number of Icons should be 2" duration="48"/>
-    <testCase name="FileUploadCard Button element rendered correctly" duration="60"/>
+    <testCase name="FileUploadCard Text should render correctly" duration="583"/>
+    <testCase name="FileUploadCard Number of Icons should be 2" duration="68"/>
+    <testCase name="FileUploadCard Button element rendered correctly" duration="74"/>
   </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/molecules/IconButton/index.test.tsx">
-    <testCase name="Molecules renders filter button" duration="197"/>
+  <file path="/home/asishk/Videos/green-commute/src/components/organisms/SideMenu/index.test.tsx">
+    <testCase name="SideMenu Text should render correctly" duration="328"/>
+    <testCase name="SideMenu Text should render correctly" duration="123"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="63"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="123"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="77"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="91"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="82"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="110"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="84"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="81"/>
+  </file>
+  <file path="/home/asishk/Videos/green-commute/src/components/organisms/FilterMenu/index.test.tsx">
+    <testCase name="Filter menu organism renders all parts of filter menu" duration="1784"/>
+  </file>
+  <file path="/home/asishk/Videos/green-commute/src/components/organisms/JobDetailsCard/index.test.tsx">
+    <testCase name="CabCard renders correctly" duration="135"/>
+    <testCase name="CabCard Text should render correctly" duration="86"/>
+    <testCase name="CabCard Text should render correctly" duration="26"/>
+    <testCase name="CabCard Button element rendered correctly" duration="34"/>
+  </file>
+  <file path="/home/asishk/Videos/green-commute/src/components/organisms/CabCard/index.test.tsx">
+    <testCase name="CabCard renders correctly" duration="131"/>
+    <testCase name="CabCard Text should render correctly" duration="88"/>
+    <testCase name="CabCard Element for ola should be rendered" duration="88"/>
+    <testCase name="CabCard Element rapido should be rendered" duration="47"/>
+    <testCase name="CabCard Element uber should be rendered" duration="69"/>
+  </file>
+  <file path="/home/asishk/Videos/green-commute/src/components/organisms/AcknowledgementCard/index.test.tsx">
+    <testCase name="AcknowledgementCard Text should render correctly" duration="522"/>
+    <testCase name="AcknowledgementCard Number of Icons should be 2" duration="101"/>
+    <testCase name="AcknowledgementCard Button element rendered correctly" duration="30"/>
   </file>
   <file path="/home/asishk/Videos/green-commute/src/components/organisms/JobSearch/index.test.tsx">
-    <testCase name="Search Bar render whole organism" duration="208"/>
-    <testCase name="Search Bar render skill search field" duration="74"/>
-    <testCase name="Search Bar render location search field " duration="57"/>
-    <testCase name="Search Bar render search button icon" duration="60"/>
-  </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/molecules/ListItem/index.test.tsx">
-    <testCase name="List Item molecule Ola list item molecule" duration="118"/>
-    <testCase name="List Item molecule Rapido list item molecule with approx and fare" duration="32"/>
-    <testCase name="List Item molecule Uber list item molecule logo rendering test" duration="46"/>
-    <testCase name="List Item Snapshot renders list item correctly" duration="25"/>
-  </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/atoms/RadioButton/index.test.tsx">
-    <testCase name="Atoms renders radio button" duration="94"/>
-    <testCase name="Atoms renders snapshot of radio button" duration="19"/>
-  </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/molecules/ChipItem/index.test.tsx">
-    <testCase name="Molecules renders chip" duration="147"/>
-  </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/atoms/InputField/index.test.tsx">
-    <testCase name="Atoms renders input field" duration="306"/>
-  </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/molecules/MenuItem/index.test.tsx">
-    <testCase name="Molecules renders filter button" duration="173"/>
+    <testCase name="Search Bar render whole organism" duration="481"/>
+    <testCase name="Search Bar render skill search field" duration="58"/>
+    <testCase name="Search Bar render location search field " duration="49"/>
+    <testCase name="Search Bar render search button icon" duration="83"/>
   </file>
   <file path="/home/asishk/Videos/green-commute/src/components/organisms/Header/index.test.tsx">
-    <testCase name="Header test renders the app header correctly" duration="132"/>
+    <testCase name="Header test renders the app header correctly" duration="175"/>
   </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/atoms/Checkbox/index.test.tsx">
-    <testCase name="Atoms renders input field" duration="174"/>
+  <file path="/home/asishk/Videos/green-commute/src/components/molecules/LocationField/index.test.tsx">
+    <testCase name="Location Field Molecule Random location" duration="118"/>
+    <testCase name="Location Field Snapshot renders location field correctly" duration="42"/>
   </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/molecules/AQIGroup/index.test.tsx">
-    <testCase name="AQIIndexLocation renders correctly" duration="56"/>
+  <file path="/home/asishk/Videos/green-commute/src/components/organisms/MetroCard/index.test.tsx">
+    <testCase name="CabCard renders correctly" duration="64"/>
+    <testCase name="CabCard Text should render correctly" duration="51"/>
+    <testCase name="CabCard Text should render correctly" duration="46"/>
+    <testCase name="CabCard Number of Icons should be 2" duration="22"/>
+    <testCase name="CabCard Button element rendered correctly" duration="21"/>
   </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/atoms/IconSVG/index.test.tsx">
-    <testCase name="Atoms renders svg icon" duration="41"/>
+  <file path="/home/asishk/Videos/green-commute/src/components/molecules/ChipItem/index.test.tsx">
+    <testCase name="Molecules renders chip" duration="206"/>
   </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/atoms/Button/index.test.tsx">
-    <testCase name="it renders Button" duration="117"/>
+  <file path="/home/asishk/Videos/green-commute/src/components/molecules/IconButton/index.test.tsx">
+    <testCase name="Molecules renders filter button" duration="217"/>
+  </file>
+  <file path="/home/asishk/Videos/green-commute/src/components/molecules/MenuItem/index.test.tsx">
+    <testCase name="Molecules renders filter button" duration="168"/>
   </file>
   <file path="/home/asishk/Videos/green-commute/src/components/organisms/FindCard/index.test.tsx">
-    <testCase name="Job card test renders the app header correctly" duration="99"/>
+    <testCase name="Job card test renders the app header correctly" duration="80"/>
   </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/molecules/IllustrationData/index.test.tsx">
-    <testCase name="IllustrationData renders correctly" duration="43"/>
+  <file path="/home/asishk/Videos/green-commute/src/components/atoms/IconSVG/index.test.tsx">
+    <testCase name="Atoms renders svg icon" duration="25"/>
   </file>
   <file path="/home/asishk/Videos/green-commute/src/components/molecules/AQILocation/index.test.tsx">
-    <testCase name="AQIIndexGroup renders correctly" duration="46"/>
+    <testCase name="AQIIndexGroup renders correctly" duration="48"/>
   </file>
   <file path="/home/asishk/Videos/green-commute/src/components/molecules/AQI/index.test.tsx">
-    <testCase name="AQIIndex renders correctly" duration="59"/>
+    <testCase name="AQIIndex renders correctly" duration="47"/>
   </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/organisms/TabPanel/index.test.tsx">
-    <testCase name="Tab Panel Test renders the tab panel" duration="53"/>
+  <file path="/home/asishk/Videos/green-commute/src/components/atoms/RadioButton/index.test.tsx">
+    <testCase name="Atoms renders radio button" duration="107"/>
+    <testCase name="Atoms renders snapshot of radio button" duration="24"/>
   </file>
   <file path="/home/asishk/Videos/green-commute/src/components/organisms/MainCard/index.test.tsx">
-    <testCase name="Main Card Test renders the main card" duration="192"/>
+    <testCase name="Main Card Test renders the main card" duration="287"/>
+  </file>
+  <file path="/home/asishk/Videos/green-commute/src/components/atoms/Checkbox/index.test.tsx">
+    <testCase name="Atoms renders input field" duration="196"/>
   </file>
   <file path="/home/asishk/Videos/green-commute/src/components/organisms/JobDesCard/index.test.tsx">
-    <testCase name="Job Description Test renders the job description" duration="120"/>
+    <testCase name="Job Description Test renders the job description" duration="141"/>
+  </file>
+  <file path="/home/asishk/Videos/green-commute/src/components/atoms/Button/index.test.tsx">
+    <testCase name="it renders Button" duration="110"/>
+  </file>
+  <file path="/home/asishk/Videos/green-commute/src/components/molecules/ListItem/index.test.tsx">
+    <testCase name="List Item molecule Ola list item molecule" duration="111"/>
+    <testCase name="List Item molecule Rapido list item molecule with approx and fare" duration="22"/>
+    <testCase name="List Item molecule Uber list item molecule logo rendering test" duration="11"/>
+    <testCase name="List Item Snapshot renders list item correctly" duration="18"/>
   </file>
   <file path="/home/asishk/Videos/green-commute/src/components/atoms/Typography/index.test.tsx">
-    <testCase name="Typography Render h1" duration="40"/>
-    <testCase name="Typography Render h2" duration="6"/>
+    <testCase name="Typography Render h1" duration="128"/>
+    <testCase name="Typography Render h2" duration="14"/>
   </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/molecules/ProgressItem/index.test.tsx">
-    <testCase name="Progress Item Grid container" duration="53"/>
-    <testCase name="Progress Item Test using test-id" duration="9"/>
+  <file path="/home/asishk/Videos/green-commute/src/components/organisms/TabPanel/index.test.tsx">
+    <testCase name="Tab Panel Test renders the tab panel" duration="60"/>
   </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/atoms/Icon/index.test.tsx">
-    <testCase name="Atoms renders png icon" duration="25"/>
+  <file path="/home/asishk/Videos/green-commute/src/components/molecules/AQIGroup/index.test.tsx">
+    <testCase name="AQIIndexLocation renders correctly" duration="65"/>
   </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/atoms/Logo/index.test.tsx">
-    <testCase name="Atoms renders logo" duration="24"/>
-  </file>
-  <file path="/home/asishk/Videos/green-commute/src/components/atoms/Illustration/index.test.tsx">
-    <testCase name="Atoms renders Illustration" duration="30"/>
+  <file path="/home/asishk/Videos/green-commute/src/components/molecules/IllustrationData/index.test.tsx">
+    <testCase name="IllustrationData renders correctly" duration="57"/>
   </file>
   <file path="/home/asishk/Videos/green-commute/src/components/atoms/Avatar/index.test.tsx">
-    <testCase name="Avatar renders correctly" duration="25"/>
+    <testCase name="Avatar renders correctly" duration="22"/>
+  </file>
+  <file path="/home/asishk/Videos/green-commute/src/components/atoms/Illustration/index.test.tsx">
+    <testCase name="Atoms renders Illustration" duration="38"/>
+  </file>
+  <file path="/home/asishk/Videos/green-commute/src/components/atoms/Icon/index.test.tsx">
+    <testCase name="Atoms renders png icon" duration="32"/>
+  </file>
+  <file path="/home/asishk/Videos/green-commute/src/components/atoms/Logo/index.test.tsx">
+    <testCase name="Atoms renders logo" duration="19"/>
+  </file>
+  <file path="/home/asishk/Videos/green-commute/src/components/molecules/ProgressItem/index.test.tsx">
+    <testCase name="Progress Item Grid container" duration="47"/>
+    <testCase name="Progress Item Test using test-id" duration="9"/>
   </file>
   <file path="/home/asishk/Videos/green-commute/src/App.test.tsx">
-    <testCase name="renders learn react link" duration="16"/>
+    <testCase name="renders learn react link" duration="27"/>
   </file>
 </testExecutions>

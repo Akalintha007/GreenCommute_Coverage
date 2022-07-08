@@ -1,6 +1,3 @@
-
-
-
 function App() {
   const style = {
     width: '150px',
@@ -9,11 +6,11 @@ function App() {
     textTransform: 'none',
     boxShadow: 'none',
   };
-  return (    
-      <div className='App' style={{backgroundColor:'green'}}>
-        <h1>Hello Both</h1>
-      </div>
-    
+  return (
+    <div className='App' style={{ backgroundColor: 'green' }}>
+      <h1>Hello Both</h1>
+      <h1>Hello Both</h1>
+    </div>
   );
 }
 
