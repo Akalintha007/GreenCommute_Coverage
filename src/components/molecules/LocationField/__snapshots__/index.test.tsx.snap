@@ -5,7 +5,7 @@ exports[`Location Field Snapshot renders location field correctly 1`] = `
   className="MuiBox-root css-0"
 >
   <div
-    className="MuiFormControl-root MuiTextField-root sc-bczRLJ kdBgWV css-1u3bzj6-MuiFormControl-root-MuiTextField-root"
+    className="MuiFormControl-root MuiTextField-root css-ozplz9-MuiFormControl-root-MuiTextField-root"
     data-testid="textfield-loc"
   >
     <div
@@ -21,25 +21,19 @@ exports[`Location Field Snapshot renders location field correctly 1`] = `
           ​
         </span>
         <svg
-          add={true}
           aria-hidden={true}
           className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
           color="transparent"
           data-testid="SVGIcon"
           focusable="false"
-          style={
-            Object {
-              "stroke": "#1B877A",
-            }
-          }
         >
-          locationIcon.svg
+          locationIconWhite.svg
         </svg>
       </div>
       <input
         aria-invalid={false}
         autoFocus={false}
-        className="MuiInput-input MuiInputBase-input MuiInputBase-inputAdornedStart css-1x51dt5-MuiInputBase-input-MuiInput-input"
+        className="MuiInput-input MuiInputBase-input MuiInputBase-inputAdornedStart makeStyles-input-2 css-1x51dt5-MuiInputBase-input-MuiInput-input"
         defaultValue="Test Location"
         disabled={false}
         id="input-with-icon-textfield"
